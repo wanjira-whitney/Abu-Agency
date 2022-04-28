@@ -8,24 +8,24 @@ body{
 
 }
 .introduction{
-    background-color: aliceblue;
+    background-color:rgb(255,255,255);
 }
 .bon{
-    background-color: aliceblue;
+    background-color:rgb(255,255,255);
 }
 .srv{
-    background-color: aliceblue;
+    background-color:rgb(255,255,255);
 }
 .wrk{
-    background-color: aliceblue;
+    background-color:rgb(255,255,255);
     margin-top: 1%;
 }
 .su{
-    background-color: aliceblue;
+    background-color:rgb(255,255,255);
     margin-top: -1%;
 }
 .last{
-    background-color: aliceblue;
+    background-color:rgb(255,255,255);
     margin-top: 1%;
 }
 
@@ -56,13 +56,16 @@ nav{
     padding: 10px;
     border: none;
     cursor: pointer;
-    margin-left: 90%;
-    margin-top: 0.01%;
+    margin-left: 80%;
+    margin-top: -1%;
 }
 .brand{
     display: flex;
     font-size: 15px;
     margin-top: 5%;
+}
+.brand h2{
+    margin-left: -1%;
 }
 .abu{
     color:rgb(90,171,158) ;
@@ -197,6 +200,7 @@ nav{
     width: 50%;
     border: none;
     margin-top: 5%;
+    margin-bottom: 10%;
 }
 .signup{
     text-align: center;
@@ -225,24 +229,89 @@ nav{
     margin-top: 10%;
     margin: 25%;
    
-
 }
+
 .last{
     display: flex;
     margin-top: 1%;
     margin-bottom: 5%;
-    font-size: 18px;
-    
+    font-size: 18px;  
 }
 .pics{
-    margin-left: 35%;
-
+    margin-left: 20%;
+    margin-top: 6%;
 }
 .input{
     border: none;
     outline: none;
     background-color: rgb(241,234,234);
     padding: 5%;
-    
+}
+.txts h2{
+    font-size: 20px;
+}
+.brand img{
+    margin: 1%;
+}
+.logo h4{
+    font-size: 15px;
+}
+.flme{
+    display: flex;
+    text-align: center;
+    margin-left: 45%;
+}
+.flme img{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.txt h1{
+    font-size: 15px;
+}
+.dgn{
+    color: aliceblue;
+    background-color:rgb(84,132,244);
+    font-size: 25px;
+    border-radius: 50%;
+    width: 14%;
+    height: 14%;
+    text-align: center;
+}
+.dv{
+    color: rgb(8, 8, 8);
+    background-color:rgb(253,240,231);
+    font-size: 25px;
+    border-radius: 50%;
+    width: 14%;
+    height: 14%;
+    text-align: center;
+}
+.mrkt{
+    color: rgb(253,240,231);
+    background-color:rgb(237,189,46);
+    font-size: 25px;
+    border-radius: 50%;
+    width: 14%;
+    height: 14%;
+    text-align: center;;
+    font-size: 25px;
+    border-radius: 50%;
+    text-align: center;
+}
+.txtmin{
+    display: flex;
+    margin-top: 20%;
+}
+.txtmin h2{
+    margin-top: 20%;
 
+}
+.txts{
+    margin-left: 8%;
+}
+.hww{
+    display: flex;
+}
+.hww h1{
+    font-size: 15px;
 }
